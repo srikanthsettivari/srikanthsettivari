@@ -10,15 +10,5 @@
   <text x="24" y="122" fill="#334155" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Spring</text>
   <rect x="24" y="130" width="272" height="10" rx="5" fill="#E2E8F0"/>
   <rect x="24" y="130" width="136" height="10" rx="5" fill="#0D9488"/>
-    <!-- HTML 20% -->
-  <text x="24" y="122" fill="#334155" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">MicroServices</text>
-  <rect x="24" y="130" width="272" height="10" rx="5" fill="#E2E8F0"/>
-  <rect x="24" y="130" width="136" height="10" rx="5" fill="#0D9488"/>
-    <!-- HTML 20% -->
-  <text x="24" y="122" fill="#334155" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">REST API</text>
-  <rect x="24" y="130" width="272" height="10" rx="5" fill="#E2E8F0"/>
-  <rect x="24" y="130" width="136" height="10" rx="5" fill="#0D9488"/>
-   <text x="24" y="122" fill="#334155" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Cloud</text>
-  <rect x="24" y="130" width="272" height="10" rx="5" fill="#E2E8F0"/>
-  <rect x="24" y="130" width="136" height="10" rx="5" fill="#0D9488"/>
+
 </svg>
