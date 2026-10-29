@@ -5,12 +5,12 @@
 
 <div align="center">
 
-  <a href="https://github.com/srikanthsettivari">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=1000&color=E8B923&center=true&vCenter=true&multiline=true&width=720&height=100&lines=Srikanth+Settivari;Lead+Software+Developer"
-      alt="Srikanth Settivari — Lead Software Developer"
-    />
-  </a>
+  <img
+    src="./header.svg"
+    width="720"
+    height="96"
+    alt="Srikanth Settivari — Lead Software Developer"
+  />
 
   <br/>
 
