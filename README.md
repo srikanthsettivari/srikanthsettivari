@@ -2,10 +2,7 @@
 
 # Srikanth Settivari
 
-**Founder & builder** — career platforms, automation, and full-stack product engineering.
-
-[![GitHub](https://img.shields.io/badge/GitHub-srikanthsettivari-0f2d52?style=flat-square&logo=github)](https://github.com/srikanthsettivari)
-[![Focus](https://img.shields.io/badge/Focus-Product%20%26%20Platform-e8b923?style=flat-square)](#what-i-build)
+**Founder & product engineer** — career platforms, automation, and full-stack systems that ship.
 
 </div>
 
@@ -13,54 +10,49 @@
 
 ### About
 
-I design and ship end-to-end products: polished web experiences, hardened Spring APIs, and reliable browser automation for real-world workflows. Most of my work lives in private product repos; the public surface below is a sample of how I think and build.
+I build products end-to-end: calm product UIs, hardened APIs, and browser automation that holds up in production ops. Most of my work is private product code; this profile is the public face of how I think and craft.
 
-**Currently:** building **VegaJob** — an AI-assisted career platform (candidate desk, recruiter ops, and automated filing).
+**Now:** building **[VegaJob](https://vegajob.com)** — an AI-assisted career platform spanning candidate experience, recruiter desks, and automated filing.
 
 ---
 
-### What I build
+### Craft
 
-| Layer | Stack |
+| Layer | Tools |
 |:------|:------|
-| Product UI | Next.js, TypeScript, careful systems design |
-| APIs & data | Spring Boot, MySQL, migrations, ops-ready services |
-| Automation | Playwright workers, portal adapters, metrics & triage |
-| Cloud | Docker, DigitalOcean, Cloudflare |
+| Product UI | Next.js · TypeScript · intentional visual systems |
+| Platform API | Spring Boot · MySQL · migrations · desk/ops contracts |
+| Automation | Playwright workers · portal adapters · metrics & triage |
+| Delivery | Docker · DigitalOcean · Cloudflare |
 
 ---
 
-### Featured public work
+### Selected public repos
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Repo | Notes |
+|:-----|:------|
+| [java-concepts](https://github.com/srikanthsettivari/java-concepts) | Concise Java reference notes |
+| [interview-samples](https://github.com/srikanthsettivari/interview-samples) | Interview-oriented Java samples |
+| [movieproject](https://github.com/srikanthsettivari/movieproject) | Small HTML/JS browsing demo |
 
-**[ApplyPilot](https://github.com/srikanthsettivari/ApplyPilot)**  
-AI agent that applies to jobs across sites and forms — early exploration of autonomous filing.
-
-</td>
-<td width="50%" valign="top">
-
-**[java-concepts](https://github.com/srikanthsettivari/java-concepts)** · **[interview-samples](https://github.com/srikanthsettivari/interview-samples)**  
-Concise Java references and interview-oriented samples.
-
-</td>
-</tr>
-</table>
+Private product work (VegaJob UI, Spring API, filing bot) stays off the public feed by design.
 
 ---
 
-### How I work
+### Principles
 
-- Prefer **clear contracts** between UI, API, and workers  
-- Ship with **ops in mind** — logs, retention, desks for humans when automation stops  
-- Keep surfaces **quiet and intentional** — fewer louder controls, stronger hierarchy  
+- Clear contracts between UI, API, and workers  
+- Ops-ready by default — logs, retention, human desks when automation stops  
+- Quiet surfaces — fewer controls, stronger hierarchy  
 
 ---
 
 <div align="center">
 
 <em>Start when you start. Finish with craft.</em>
+
+<br/><br/>
+
+[vegajob.com](https://vegajob.com) · [GitHub](https://github.com/srikanthsettivari)
 
 </div>
