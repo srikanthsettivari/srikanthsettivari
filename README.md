@@ -1,29 +1,24 @@
 <!--
-  Palette (use everywhere):
-  Navy  #0F2D52  |  Teal  #0D9488  |  Gold  #E8B923  |  Soft ink #334155
+  Source: SrikanthSettivari_Resume.docx (personal)
+  Palette: Navy #0F2D52 · Teal #0D9488 · Gold #E8B923 · Ink #334155
 -->
 
 <div align="center">
 
-  <!-- Typing SVG — theme-neutral dark slate so it reads on light & dark GitHub -->
   <a href="https://github.com/srikanthsettivari">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=E8B923&center=true&vCenter=true&multiline=true&width=680&height=100&lines=Srikanth+Settivari;Founder+%26+Product+Engineer"
-      alt="Srikanth Settivari — Founder & Product Engineer"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=1000&color=E8B923&center=true&vCenter=true&multiline=true&width=720&height=100&lines=Srikanth+Settivari;Lead+Software+Developer"
+      alt="Srikanth Settivari — Lead Software Developer"
     />
   </a>
 
   <br/>
 
-  <img
-    src="https://img.shields.io/badge/VegaJob-Career%20platform-0F2D52?style=for-the-badge&labelColor=0D9488"
-    alt="VegaJob"
-  />
+  <img src="https://img.shields.io/badge/Experience-15%2B%20years-0F2D52?style=for-the-badge&labelColor=0D9488" alt="15+ years" />
   &nbsp;
-  <img
-    src="https://img.shields.io/badge/Stack-Java%20·%20Spring%20·%20Next.js-0D9488?style=for-the-badge&labelColor=0F2D52"
-    alt="Stack"
-  />
+  <img src="https://img.shields.io/badge/Location-Atlanta%2C%20GA-0D9488?style=for-the-badge&labelColor=0F2D52" alt="Atlanta, GA" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS-Certified-E8B923?style=for-the-badge&logo=amazonaws&logoColor=0F2D52&labelColor=0F2D52" alt="AWS Certified" />
 
 </div>
 
@@ -31,23 +26,19 @@
 
 ### About me
 
-Founder & product engineer building **[VegaJob](https://vegajob.com)** — an AI-assisted career platform (candidate desk, recruiter ops, automated filing).
+**Lead Software Developer** with **15 years** of experience designing and shipping enterprise Java platforms — Spring Boot microservices, REST APIs, event-driven systems (Kafka/JMS), and cloud deployments on **AWS** and **OpenShift**.
 
-I ship end-to-end: Spring Boot APIs, Next.js product UI, and Playwright automation with ops-minded desks when bots need humans.
+Currently at **Cigna Healthcare** (Atlanta, GA), building healthcare microservices, Angular/React UIs, and cloud-native delivery. Previously **Athenahealth** and **GE Healthcare**, with hands-on **HL7 / FHIR** interoperability work.
 
 | | |
 |:--|:--|
-| **Focus** | Career platforms · automation · full-stack delivery |
-| **Learning** | Hardening filing bots · portal adapters · production observability |
-| **Open to** | Collaboration · product partnerships · select consulting |
-| **Web** | [vegajob.com](https://vegajob.com) |
-
-<!-- Fill these when ready (do not invent):
-| **Location** | City, Country |
-| **Experience** | N years |
-| **LinkedIn** | https://linkedin.com/in/… |
-| **Email** | you@domain.com |
--->
+| **Role** | Lead Software Developer |
+| **Experience** | 15 years |
+| **Location** | Atlanta, GA |
+| **Focus** | Java · Spring Boot · microservices · AWS · healthcare APIs |
+| **Learning** | Cloud-native scale · event streaming · production observability |
+| **Open to** | Senior / Lead Java roles · collaboration on distributed systems |
+| **Education** | MSIT (E-commerce), IIIT Hyderabad · PGDIT, JNTU Hyderabad |
 
 ---
 
@@ -56,41 +47,61 @@ I ship end-to-end: Spring Boot APIs, Next.js product UI, and Playwright automati
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0F2D52?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
 
-**Backend & product**
+**Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0F2D52?style=for-the-badge&labelColor=0D9488)
+![REST](https://img.shields.io/badge/REST%20APIs-0D9488?style=for-the-badge&labelColor=0F2D52)
+![FHIR](https://img.shields.io/badge/FHIR%20%2F%20HL7-E8B923?style=for-the-badge&labelColor=0F2D52&color=0D9488)
 
-**Database & cloud**
+**Frontend**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Messaging & data**
+
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![ActiveMQ](https://img.shields.io/badge/ActiveMQ-C70D2C?style=for-the-badge&logo=apacheactivemq&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Cloud, CI/CD & tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-**Tools**
-
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
 ### Featured projects
 
+Public GitHub samples (product / employer code stays private):
+
 | Project | Description | Tech |
 |:--------|:------------|:-----|
 | [**java-concepts**](https://github.com/srikanthsettivari/java-concepts) | Concise Java reference notes | Java |
 | [**interview-samples**](https://github.com/srikanthsettivari/interview-samples) | Interview-oriented Java samples | Java |
-| [**movieproject**](https://github.com/srikanthsettivari/movieproject) | Small HTML/JS movie browsing demo | HTML · JS |
+| [**movieproject**](https://github.com/srikanthsettivari/movieproject) | HTML/JS movie browsing demo | HTML · JS |
 | [**testhtml**](https://github.com/srikanthsettivari/testhtml) | HTML/CSS layout experiments | HTML · CSS |
 
-> Product work for **VegaJob** (UI · Spring API · filing bot) is private by design.
+**Enterprise work (resume):** Cigna · Athenahealth · GE Healthcare — Spring Boot microservices, AWS/OpenShift, Kafka, Angular/React, HL7/FHIR.
 
 ---
 
@@ -98,7 +109,6 @@ I ship end-to-end: Spring Boot APIs, Next.js product UI, and Playwright automati
 
 <div align="center">
 
-  <!-- Primary: github-readme-stats. Fallback if rate-limited: remove these imgs or use the static shields below. -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=srikanthsettivari&show_icons=true&theme=transparent&hide_border=true&title_color=E8B923&icon_color=0D9488&text_color=E2E8F0&bg_color=0F2D5200" />
     <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=srikanthsettivari&show_icons=true&theme=default&hide_border=true&title_color=0F2D52&icon_color=0D9488&text_color=334155&bg_color=FFFFFF00" />
@@ -111,7 +121,6 @@ I ship end-to-end: Spring Boot APIs, Next.js product UI, and Playwright automati
 
   <br/><br/>
 
-  <!-- Streak — often rate-limited; if broken, delete this block or keep the shields fallback row -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=srikanthsettivari&theme=dark&hide_border=true&background=0F2D5200&ring=0D9488&fire=E8B923&currStreakLabel=E8B923" />
     <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=srikanthsettivari&theme=default&hide_border=true&background=FFFFFF00&ring=0D9488&fire=E8B923&currStreakLabel=0F2D52" />
@@ -119,9 +128,12 @@ I ship end-to-end: Spring Boot APIs, Next.js product UI, and Playwright automati
 
   <br/><br/>
 
-  <!-- Fallback (always reliable, no third-party user stats API) -->
+  <!-- Fallback when stats/streak APIs rate-limit -->
   <img alt="Public repos" src="https://img.shields.io/github/repos/srikanthsettivari?style=flat-square&label=public%20repos&color=0D9488&labelColor=0F2D52" />
-  <img alt="Profile views optional" src="https://img.shields.io/badge/stats-shields.io%20fallback-0F2D52?style=flat-square&labelColor=0D9488" />
+  &nbsp;
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/742e77a32f05495fac2a2e7a4515bc86">
+    <img alt="Verify AWS cert" src="https://img.shields.io/badge/AWS%20cert-verify-E8B923?style=flat-square&labelColor=0F2D52" />
+  </a>
 
 </div>
 
@@ -131,21 +143,17 @@ I ship end-to-end: Spring Boot APIs, Next.js product UI, and Playwright automati
 
 <div align="center">
 
-  <a href="https://vegajob.com">
-    <img src="https://img.shields.io/badge/Portfolio-vegajob.com-0F2D52?style=for-the-badge&logo=googlechrome&logoColor=E8B923" alt="Portfolio" />
+  <a href="mailto:settivarisrikanth@gmail.com">
+    <img src="https://img.shields.io/badge/Email-settivarisrikanth%40gmail.com-0D9488?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F2D52" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/srikanth-s-21633220/">
+    <img src="https://img.shields.io/badge/LinkedIn-srikanth--s--21633220-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/srikanthsettivari">
     <img src="https://img.shields.io/badge/GitHub-srikanthsettivari-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!--
-  <a href="https://linkedin.com/in/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-0D9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  -->
 
 </div>
 
@@ -153,10 +161,6 @@ I ship end-to-end: Spring Boot APIs, Next.js product UI, and Playwright automati
 
 <div align="center">
 
-  <em>Start when you start. Finish with craft.</em>
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-0F2D52?style=flat-square&labelColor=E8B923&color=0D9488" alt="Thanks for visiting" />
+  <em>Building reliable systems — from healthcare platforms to cloud-native APIs.</em>
 
 </div>
