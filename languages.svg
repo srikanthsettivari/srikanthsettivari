@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="160" viewBox="0 0 320 160" role="img" aria-label="Top languages">
+  <rect width="320" height="160" rx="10" fill="#FFFFFF" stroke="#0F2D52" stroke-width="2"/>
+  <text x="24" y="36" fill="#0F2D52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Top Languages</text>
+  <line x1="24" y1="48" x2="296" y2="48" stroke="#0D9488" stroke-width="2"/>
+  <!-- Java 50% -->
+  <text x="24" y="78" fill="#334155" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Java</text>
+  <rect x="24" y="86" width="272" height="10" rx="5" fill="#E2E8F0"/>
+  <rect x="24" y="86" width="136" height="10" rx="5" fill="#0F2D52"/>
+  <!-- HTML 50% -->
+  <text x="24" y="122" fill="#334155" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">HTML</text>
+  <rect x="24" y="130" width="272" height="10" rx="5" fill="#E2E8F0"/>
+  <rect x="24" y="130" width="136" height="10" rx="5" fill="#0D9488"/>
+</svg>

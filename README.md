@@ -107,28 +107,20 @@ Public GitHub samples (product / employer code stays private):
 
 ### GitHub stats
 
+<!-- Static SVGs in this repo — github-readme-stats.vercel.app is often 503/rate-limited -->
+
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=srikanthsettivari&show_icons=true&theme=transparent&hide_border=true&title_color=E8B923&icon_color=0D9488&text_color=E2E8F0&bg_color=0F2D5200" />
-    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=srikanthsettivari&show_icons=true&theme=default&hide_border=true&title_color=0F2D52&icon_color=0D9488&text_color=334155&bg_color=FFFFFF00" />
-  </picture>
+  <img src="./stats.svg" height="160" alt="GitHub stats" />
   &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthsettivari&layout=compact&theme=transparent&hide_border=true&title_color=E8B923&text_color=E2E8F0&bg_color=0F2D5200" />
-    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthsettivari&layout=compact&theme=default&hide_border=true&title_color=0F2D52&text_color=334155&bg_color=FFFFFF00" />
-  </picture>
+  <img src="./languages.svg" height="160" alt="Top languages" />
 
   <br/><br/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=srikanthsettivari&theme=dark&hide_border=true&background=0F2D5200&ring=0D9488&fire=E8B923&currStreakLabel=E8B923" />
-    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=srikanthsettivari&theme=default&hide_border=true&background=FFFFFF00&ring=0D9488&fire=E8B923&currStreakLabel=0F2D52" />
-  </picture>
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=srikanthsettivari&theme=default&hide_border=true&ring=0D9488&fire=E8B923&currStreakLabel=0F2D52" />
 
   <br/><br/>
 
-  <!-- Fallback when stats/streak APIs rate-limit -->
   <img alt="Public repos" src="https://img.shields.io/github/repos/srikanthsettivari?style=flat-square&label=public%20repos&color=0D9488&labelColor=0F2D52" />
   &nbsp;
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/742e77a32f05495fac2a2e7a4515bc86">
